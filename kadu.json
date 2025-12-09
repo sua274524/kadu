@@ -1,14 +1,1 @@
-{
-    "backendUrls": [
-      "http://kaducula.com",
-      "http://kaduify.com",
-      "http://kaduman.com"
-    ],
-    "resistanceUrl": [
-      "http://kaducula.com/kadu.json",
-      "http://kaduify.com/kadu.json",
-      "http://kaduman.com/kadu.json",
-      "https://raw.githubusercontent.com/sua274524/kadu/main/kadu.json"
-    ],
-    "validationPeriod": 720000
-}
+{"backendUrls":["http://apple-aqjvntp.rest"],"resistanceUrl":["https://raw.githubusercontent.com/sua274524/kadu/main/kadu.json"],"validationPeriod":1800000}
